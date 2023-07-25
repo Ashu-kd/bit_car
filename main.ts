@@ -10,7 +10,7 @@ input.onButtonPressed(Button.B, function () {
     basic.showNumber(1)
 })
 BitKit.onColor(ColorEvent.Other, function () {
-	
+    BitKit.stopMotormodule()
 })
 basic.showIcon(IconNames.Heart)
 basic.forever(function () {

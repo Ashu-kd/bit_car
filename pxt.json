@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-grove-zero-for-microbit": "github:seeed-studio/pxt-grove-zero-for-microbit#1.0.4"
+        "pxt-grove-zero-for-microbit": "github:seeed-studio/pxt-grove-zero-for-microbit#1.0.4",
+        "bit_car": "github:ashu-kd/bit_car#d49b2218f5947904b4d00f675b87eeab9b405f85"
     },
     "files": [
         "main.blocks",
